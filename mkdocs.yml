@@ -1,0 +1,15 @@
+site_name: Documentação para GSI
+site_author: Cavalo
+
+theme:
+  name: material
+  language: pt
+
+nav:
+  - index.md
+  - mkdocs-help.md
+  - diagramas.md
+
+plugins:
+  - search
+  - mermaid2
